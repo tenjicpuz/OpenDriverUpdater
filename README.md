@@ -22,4 +22,4 @@ Most driver updaters are closed-source, bundle bloatware, or trigger antivirus s
 
 ## Security & VirusTotal
 This script is 100% clean. Verify the latest version here: 
-[Insert VirusTotal Link Here]
+[[Insert VirusTotal Link Here](https://www.virustotal.com/gui/file/2fc4be42ecc47f0aa9bd3bcf5ea3c152fd5243983a3d7ff7fe5862c9d2f8210d?nocache=1)]
